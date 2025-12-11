@@ -1,0 +1,7 @@
+{
+  "name": "Copy of calory ia",
+  "description": "AI-powered body analysis and personalized fitness planning application.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
